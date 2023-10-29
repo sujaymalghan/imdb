@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">10dp</dimen>
+    <dimen name="default_padding2">5dp</dimen>
+    <dimen name="shadow_size">6dp</dimen>
+    <dimen name="spacer">65dp</dimen>
+    <item name="fragment_container" type="id"/>
+</resources>

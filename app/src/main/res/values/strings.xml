@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+
+    <string name="course_name">Android Programming CIS600</string>
+    <string name="myname">Sujay Vishwanath Malghan</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
